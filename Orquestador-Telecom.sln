@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Orquestador-Telecom", "Orquestador-Telecom\Orquestador-Telecom.csproj", "{6EB5A5DC-CDF3-4AD1-AFB2-EE51139BDB94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orquestador-Telecom.Model", "Orquestador-Telecom.Model\Orquestador-Telecom.Model.csproj", "{F6846ED0-50E5-42DE-A9F9-86419AC8C57E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EB5A5DC-CDF3-4AD1-AFB2-EE51139BDB94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB5A5DC-CDF3-4AD1-AFB2-EE51139BDB94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB5A5DC-CDF3-4AD1-AFB2-EE51139BDB94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB5A5DC-CDF3-4AD1-AFB2-EE51139BDB94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6846ED0-50E5-42DE-A9F9-86419AC8C57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6846ED0-50E5-42DE-A9F9-86419AC8C57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6846ED0-50E5-42DE-A9F9-86419AC8C57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6846ED0-50E5-42DE-A9F9-86419AC8C57E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF9A04C5-1898-4D69-B735-9215B51278FD}
+	EndGlobalSection
+EndGlobal
