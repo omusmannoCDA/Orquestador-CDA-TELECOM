@@ -1,4 +1,4 @@
-﻿using DiagnosticoTecnicoBasico.Common;
+﻿using Domain.Common;
 using Orquestador_Telecom.Domain.Constants;
 using System;
 using System.Net;

@@ -10,6 +10,24 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.4.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="ContratoObtenerProductosClienteDiagnostico">
+      <HintPath>..\DLL's\ContratoObtenerProductosClienteDiagnostico.dll</HintPath>
+    </Reference>
+    <Reference Include="Domain.Common">
+      <HintPath>..\DLL's\Domain.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Domain.Model.InformacionComercial">
+      <HintPath>..\DLL's\Domain.Model.InformacionComercial.dll</HintPath>
+    </Reference>
+    <Reference Include="InterfaceResponseDTB">
+      <HintPath>..\DLL's\InterfaceResponseDTB.dll</HintPath>
+    </Reference>
+    <Reference Include="InterfaceResponseOPEN">
+      <HintPath>..\DLL's\InterfaceResponseOPEN.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
  
   <ProjectExtensions><VisualStudio><UserProperties appsettings_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>
 
