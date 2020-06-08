@@ -10,9 +10,8 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.4.1" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Orquestador-Telecom.Model\Orquestador-Telecom.Model.csproj" />
-  </ItemGroup>
+ 
+  <ProjectExtensions><VisualStudio><UserProperties appsettings_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>
 
 
 </Project>

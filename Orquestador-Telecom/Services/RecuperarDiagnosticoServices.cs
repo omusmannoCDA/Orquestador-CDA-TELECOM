@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace Orquestador_Telecom.Services
+﻿namespace Orquestador_Telecom.Services
 {
     public class RecuperarDiagnosticoServices
     {

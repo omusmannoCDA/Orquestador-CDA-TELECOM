@@ -12,6 +12,7 @@ namespace Orquestador_Telecom.Services
             {
                 string url = Constants.urlInformacionComercial + idSubscriber;
                 var jsonResponse = Utilities.GetResponse(url);
+
                 return jsonResponse;
             }
             catch (Exception ex)

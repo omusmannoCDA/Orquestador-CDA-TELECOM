@@ -1,8 +1,13 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <RootNamespace>Orquestador_Telecom.Model</RootNamespace>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Request\" />
+    <Folder Include="Response\" />
+  </ItemGroup>
 
 </Project>
